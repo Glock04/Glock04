@@ -3,7 +3,6 @@
 
 
 - 🌎 Country: Argentina Buenos Aires
-- 💻 Fivem Developer
 
 
 ## 📀 Social Networks
