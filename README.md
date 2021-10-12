@@ -2,7 +2,7 @@
 #                🔎 About me:
 
 
-- 🌎 Country: Argentina Buenos Aires
+- 🌎 Country: Argentina
 
 
 ## 📀 Social Networks
