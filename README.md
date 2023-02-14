@@ -7,7 +7,7 @@
 
 ## 📀 Social Networks
 
-- Discord: 𝐍𝐢𝐤𝐨#4178
+- Discord: Zaramay#7911
 - 💻 GitHub: [Niko590](https://github.com/Niko590)
 - 🌍 Ceo: [American Life](Discord.gg/americanrp)
 - 🌍 Ceo: [American PVP](Discord.gg/americanpvp)
