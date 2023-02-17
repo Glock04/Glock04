@@ -23,7 +23,7 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glock04&theme=dark&hide_border=true&border_radius=5.9&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Glock04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
