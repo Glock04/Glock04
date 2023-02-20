@@ -25,4 +25,3 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glock04)](https://git.io/streak-stats)
