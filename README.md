@@ -14,7 +14,7 @@
 
 - Discord: Cyton#6820
 - 💻 GitHub: [Niko590](https://github.com/Niko590)
-- 🌍 Ceo: [American Life](https://discord.gg/reskaterp)
+- 🌍 Ceo: [Reskate Roleplay](https://discord.gg/reskaterp)
 <!--- 🌍 Ceo: [American Life](Discord.gg/americanrp)-->
 <!--- 🌍 Ceo: [American PVP](Discord.gg/americanpvp)-->
 <!--- 🌍 Founder: [Fantasy Leaks](https://discord.gg/FDNWcH7DcZ)-->
