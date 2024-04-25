@@ -14,10 +14,10 @@
 
 - Discord: Cyton#6820
 - 💻 GitHub: [Niko590](https://github.com/Niko590)
-- 🌍 Ceo: [American Life](Discord.gg/americanrp)
-- 🌍 Ceo: [American PVP](Discord.gg/americanpvp)
-- 🌍 Founder: [Fantasy Leaks](https://discord.gg/FDNWcH7DcZ)
-- 🌍 Ceo: [Bastard | AC](https://discord.gg/QJrH2X6Dyb)
+<!--- 🌍 Ceo: [American Life](Discord.gg/americanrp)-->
+<!--- 🌍 Ceo: [American PVP](Discord.gg/americanpvp)-->
+<!--- 🌍 Founder: [Fantasy Leaks](https://discord.gg/FDNWcH7DcZ)-->
+<!--- 🌍 Ceo: [Bastard | AC](https://discord.gg/QJrH2X6Dyb)-->
 
 <!-- Social icons section -->
 
