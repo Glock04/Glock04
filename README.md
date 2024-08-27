@@ -4,15 +4,11 @@
     <h1 align="center">👋    Welcome to my Profile! 🌎</h1>
 </div>
 
-#                🔎 About me:
-
-
-- 🌎 Country: Argentina
-
+## Antifekas
 
 ## 📀 Social Networks
 
-- Discord: Cyton#6820
+- 💻Discord: nnassh
 - 💻 GitHub: [Niko590](https://github.com/Niko590)
 - 🌍 Ceo: [Reskate Roleplay](https://discord.gg/reskaterp)
 <!--- 🌍 Ceo: [American Life](Discord.gg/americanrp)-->
@@ -22,7 +18,7 @@
 
 <!-- Social icons section -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glock04&show_icons=true&theme=radical)
+![Glock04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glock04&show_icons=true&theme=radical)
 
 
 
