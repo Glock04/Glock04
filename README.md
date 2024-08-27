@@ -18,7 +18,7 @@
 
 <!-- Social icons section -->
 
-![Glock04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glock04&show_icons=true&theme=radical)
+![Glock04's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glock04&count_private=true&show_icons=true&theme=dark)
 
 
 
